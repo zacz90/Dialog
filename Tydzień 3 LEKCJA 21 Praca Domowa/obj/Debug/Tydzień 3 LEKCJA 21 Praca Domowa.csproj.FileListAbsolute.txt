@@ -1,7 +1,0 @@
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\bin\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.exe.config
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\bin\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.exe
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\bin\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.pdb
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\obj\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.csproj.AssemblyReference.cache
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\obj\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.csproj.CoreCompileInputs.cache
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\obj\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.exe
-C:\Users\laptop\source\repos\Kurs Zostań Programistą .net\Tydzień 3 LEKCJA 21 Praca Domowa\Tydzień 3 LEKCJA 21 Praca Domowa\obj\Debug\Tydzień 3 LEKCJA 21 Praca Domowa.pdb
